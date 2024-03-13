@@ -13,3 +13,10 @@ function add7(number)
     return number + 7;
 }
 console.log(add7(5));
+
+// Write a function called multiply that takes 2 numbers and returns their product.
+function multiply(a, b)
+{
+    return a * b;
+}
+console.log(multiply(4, 5));
